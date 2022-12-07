@@ -5,7 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-#lists for month and day to check user input validity
+#the second change of the documentation
 month_list=['january', 'february', 'march', 'april', 'may', 'june','all']
 weekday_list=['sunday','monday','tuesday','wednesday','thursday','friday','saturday','all']
 
