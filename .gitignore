@@ -1,4 +1,4 @@
 .github/**
-*.chicago.csv
-*.new-york-city.csv
-*.washignton.csv
+chicago.csv
+new-york-city.csv
+washignton.csv
